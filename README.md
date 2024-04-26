@@ -30,9 +30,9 @@ print(U)
 ```
 (ii) To find the LU Decomposition of a matrix
 ```
-Program to solve a matrix using LU decomposition.
-Developed by: A.Divyadharshini
-RegisterNumber: 22002825
+#Program to solve a matrix using LU decomposition.
+#Developed by: Adhithya K
+#RegisterNumber: 2305002001
 
 import numpy as np
 from scipy.linalg import lu_factor, lu_solve
@@ -49,9 +49,8 @@ import numpy as np
 ```
 
 ## Output:
-![lu decomposition]()
+![image](https://github.com/adhi2k/LU-Decomposition/assets/145216997/ea6d6237-34d9-415c-9254-1b074429de50)
 
-![DIVIYA LU1](https://user-images.githubusercontent.com/119393424/216231905-36582e71-8a6e-4485-827c-c88b38dd2fe3.png)
 
 ![DIVIYA LU 2](https://user-images.githubusercontent.com/119393424/216231908-82884713-b36f-4df3-a155-0b6ee6e74ce4.png)
 
