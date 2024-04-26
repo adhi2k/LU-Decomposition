@@ -48,10 +48,10 @@ import numpy as np
 
 ```
 
-## Output:
+## Output 1:
 ![image](https://github.com/adhi2k/LU-Decomposition/assets/145216997/9d9e6ac4-b2e5-48ad-9830-682e2b6820a6)
 
-
+## Output 2:
 ![image](https://github.com/adhi2k/LU-Decomposition/assets/145216997/9a68723d-4f6d-49e6-811e-d99a4ffb33e1)
 
 ## Result:
