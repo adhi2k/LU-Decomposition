@@ -52,7 +52,7 @@ import numpy as np
 ![image](https://github.com/adhi2k/LU-Decomposition/assets/145216997/ea6d6237-34d9-415c-9254-1b074429de50)
 
 
-![DIVIYA LU 2](https://user-images.githubusercontent.com/119393424/216231908-82884713-b36f-4df3-a155-0b6ee6e74ce4.png)
+![image](https://github.com/adhi2k/LU-Decomposition/assets/145216997/dd1314d3-ff47-4249-87fb-630db4051a62)
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
